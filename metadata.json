@@ -1,0 +1,7 @@
+{
+  "name": "Copy actualizacion a 1",
+  "description": "An elegant restaurant management application that allows administrators to manage menus, track sales, and leverage AI for image generation, market research, and data analysis. Customers can browse the menu, place orders, and interact with an AI assistant for voice ordering, visual search, and support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
